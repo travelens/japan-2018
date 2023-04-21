@@ -1,7 +1,7 @@
 {
-  "name": "trip-template",
+  "name": "japan-2018",
   "author": "Chris Tham (chris@christham.net)",
-  "description": "Trip template for travelens",
+  "description": "We returned to Japan in 5-15 March 2018, and started from Osaka, then south to Kyushu visiting Nagasaki, ending with a day trip to Himeji.",
   "license": "MIT",
   "version": "0.0.1",
   "scripts": {
