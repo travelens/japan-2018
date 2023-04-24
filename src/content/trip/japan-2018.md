@@ -8,7 +8,10 @@ end: 2018-03-15T22:00:59+00:00
 description: We returned to Japan in 5-15 March 2018, and started from Osaka, then south to Kyushu visiting Nagasaki, ending with a day trip to Himeji.
 image: ../../assets/trip.jpeg
 tags:
-  - Oceania
+  - Osaka
+  - Nagasaki
+  - Huis Ten Bosch
+  - Himeji
 ---
 We returned to Japan in 5-15 March 2018, mainly because Qantas was opening a route to Osaka and was offering a sale. Once again, the trip was organised by [Dan Campbell][1] of [InsideJapan Tours][2]. This time, we asked Dan to create an itinerary for us starting from Osaka, but then travelling south to Kyushu visiting Nagasaki, then returning back to Osaka with a day trip to Himeji.
 
