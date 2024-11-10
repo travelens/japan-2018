@@ -8,13 +8,13 @@ timezone: Japan
 location: Huis Ten Bosch
 image: ../../assets/gallery/07-game-museum/Chris, motorbike.jpeg
 gallery: 07-game-museum
-map: [33.0859,129.7889,15]
+map: [33.0859, 129.7889, 15]
 tags:
   - attraction
   - Huis Ten Bosch
   - Japan
   - museum
   - theme park
-
 ---
+
 I must admit, I secretly enjoyed this museum, which contains a display of various gaming consoles past to present as well as various arcade machines. I was surprised that coins still had to be inserted to play, I would have expected the machines to be rigged for free play but never mind.

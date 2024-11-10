@@ -10,7 +10,7 @@ timezone: Japan
 location: Shinsaibashi
 image: ../../assets/gallery/01-shinsaibashi/Atariya.jpeg
 gallery: 01-shinsaibashi
-map: [34.6745,135.5004,14]
+map: [34.6745, 135.5004, 14]
 tags:
   - Amerikamura
   - city
@@ -18,8 +18,8 @@ tags:
   - Osaka
   - Shinsaibashi
   - shopping
-
 ---
+
 We arrived the previous day having from on Qantas business class (yes, we splurged out) from Sydney to Kansai International Airport. The plane departed late because of a sick passenger. When we arrived, the immigration hall was full of people and there was a large queue. The immigration officer was impressed when I said in my best Japanese &#8220;宜しくお願いいたします&#8221; I did notice a body temperature scanner so I was quite relieved when I got through as I didn&#8217;t feel too well (but I probably didn&#8217;t have a fever).
 
 Once we exited baggage and customs, we were greeted by a representative from InsideJapan tours. She guided us to the train station where she purchased tickets on the Nankai Airport Line. She said it was too late for the Rapi:t Express so we just went on the normal Airport Express train which stops at 12 stations. The journey did not take too long, but the train was quite crowded and I had to stand most of the way.

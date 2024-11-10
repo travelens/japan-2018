@@ -8,15 +8,15 @@ timezone: Japan
 location: Gunkanjima
 image: ../../assets/gallery/04-gunkanjima/Gunkanjima (2).jpeg
 gallery: 04-gunkanjima
-map: [32.6277,129.7383,16]
+map: [32.6277, 129.7383, 16]
 tags:
   - attraction
   - Gunkanjima
   - historic
   - island
   - Japan
-
 ---
+
 Today we had a nice breakfast at the hotel. Highlights in the breakfast selection included grilled horse mackerel, siu mais, steamed gyozas and even mini saraudon bowls (皿うどん).
 
 We bought a day pass for the streetcar, and caught the No 1, followed by No 5 cars to Ourakaigandori (大浦海岸通り), which is close to Nagasaki Port, and we queued up for the cruise boat to Gunkanjima.

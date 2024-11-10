@@ -8,14 +8,14 @@ timezone: Japan
 location: Himeji castle
 image: ../../assets/gallery/09-himeji-castle/View from Hishi no mon (3).jpeg
 gallery: 09-himeji-castle
-map: [34.8393,134.6940,16]
+map: [34.8393, 134.6940, 16]
 tags:
   - Huis Ten Bosch
   - Japan
   - Osaka
   - train
-
 ---
+
 Himeji Castle (姫路城) is the largest and most visited castle in Japan. It became one of the first UNESCO World Heritage Sites in Japan in 1993. The castle has a brilliant white exterior and supposedly resemble a bird taking flight. Because of this, some call it Hakuro-jō or Shirasagi-jō (“White Egret Castle” or “White Heron Castle”).
 
 Himeji Castle remained intact during World War II, unlike the other castles we have visited in Japan. It is a surviving example of what a “real” Japanese castle looks like, inside and outside. It has 83 rooms, 6 floors, and contains defensive systems dating back from the feudal period. These include loopholes and angled chutes called “stone drop windows.” The castle has three moats. The designers used a few methods to prevent enemy attackers from reaching the main keep. The path to the main keep is maze like and confusing. In addition, the castle originally had over 80 fortified gates. 15 of the dates were named consecutively after the Japanese syllabary (いろは etc.)

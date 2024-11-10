@@ -8,15 +8,15 @@ timezone: Japan
 location: Glover Garden
 image: ../../assets/gallery/05-glover-garden/Glover House (16).jpeg
 gallery: 05-glover-garden
-map: [32.73336,129.86925,17]
+map: [32.73336, 129.86925, 17]
 tags:
   - garden
   - Glover Garden
   - historic
   - Japan
   - Nagasaki
-
 ---
+
 After breakfast, we took the streetcar to Ouratenshudoshita stop to visit the historical foreign settlement sites of Nagasaki. The biggest and most famous attraction in this area is Glover&#8217;s Garden.
 
 Despite the name, this is less of a formal garden and more a collection of historical houses. We really enjoyed it and it gave us a sense of the history of foreign trading in Nagasaki.

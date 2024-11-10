@@ -8,7 +8,7 @@ timezone: Japan
 location: Huis Ten Bosch
 image: ../../assets/gallery/06-teddy-bear-kingdom/Welcome, Kasteel Nijenrode.jpeg
 gallery: 06-teddy-bear-kingdom
-map: [33.0859,129.7889,15]
+map: [33.0859, 129.7889, 15]
 tags:
   - attraction
   - Huis Ten Bosch
@@ -17,6 +17,6 @@ tags:
   - museum
   - teddy bear
   - theme park
-
 ---
+
 The first attraction we visited after the theme park entrance is a recreation of Kasteel Nijenrode (a merchant house that has subsequently become a university). This houses the Teddy Bear Kingdom, an extensive collection of teddy bears from around the world.

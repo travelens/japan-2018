@@ -8,7 +8,7 @@ timezone: Japan
 location: Nagasaki Station
 image: ../../assets/gallery/06-nagasaki-to-huis-ten-bosch/Nagasaki Station.jpeg
 gallery: 06-nagasaki-to-huis-ten-bosch
-map: [32.7525,129.8687,16]
+map: [32.7525, 129.8687, 16]
 tags:
   - Japan
   - Nagasaki
@@ -16,8 +16,8 @@ tags:
   - Seaside Express
   - station
   - train
-
 ---
+
 Had a heavy breakfast and checked out. Took a taxi to Nagasaki Station and waited for the Seaside Liner (no reservations). When the train arrived, it was quite an old train but we didn&#8217;t mind as it was all part of the experience. The train is quite a slow one, and stopped for a relatively long time at each station. The seaside journey towards Sasebo is quite beautiful.
 
 These pictures are of Nagasaki Station in the morning. The food are from the food court at the bottom of the plaza next to the station.

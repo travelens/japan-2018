@@ -8,14 +8,14 @@ timezone: Japan
 location: Huis Ten Bosch
 image: ../../assets/gallery/07-flower-road/Flower road (1).jpeg
 gallery: 07-flower-road
-map: [33.0859,129.7889,15]
+map: [33.0859, 129.7889, 15]
 tags:
   - attraction
   - Huis Ten Bosch
   - Japan
   - theme park
-
 ---
+
 We woke up and had the buffet breakfast at the hotel. Not only was it super crowded and we had to queue to get in, but the food wasn&#8217;t very delicious &#8211; definitely the low point in our trip as far as breakfasts are concerned. We headed back to the entrance, converted our vouchers into day passes, took a few photos and headed to the Flower Road. It was still early so not too many people around. We checked out the Cheese Waag &#8211; it was super expensive.
 
 After that we slowly made our way past Amsterdam Square back to the Domtoren and headed out towards Harbour Town.

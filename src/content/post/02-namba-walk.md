@@ -8,7 +8,7 @@ timezone: Japan
 location: Namba Walk
 image: ../../assets/gallery/02-namba-walk/Chris, dog.jpeg
 gallery: 02-namba-walk
-map: [34.66707,135.50231,17]
+map: [34.66707, 135.50231, 17]
 tags:
   - city
   - Japan
@@ -16,8 +16,8 @@ tags:
   - Namba walk
   - Osaka
   - shopping
-
 ---
+
 Woke up late &#8211; around 7:30. We are still not feeling too well, so we decided to spend most of the day shopping indoors in shopping centres to avoid the cold weather outside.
 
 Topped up our Manaca cards, and did a trial run from Namba station to Shin-Osaka on the Midosuji subway line to exchange our Japan Rail pass vouchers and reserve Shinkansen tickets. There&#8217;s not much to see in Shin Osaka apart from restaurants, so returned back to Namba station, and had lunch at Tenya Akasuka Tendon again (another shop very close to Dotonbori Bridge). This time had the tendon, which consists of whitebait, prawn, green bean, pumpkin

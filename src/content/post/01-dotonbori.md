@@ -8,14 +8,14 @@ timezone: Japan
 location: Dotonbori
 image: ../../assets/gallery/01-dotonbori/Chris, bicycle.jpeg
 gallery: 01-dotonbori
-map: [34.6690,135.5016,16]
+map: [34.6690, 135.5016, 16]
 tags:
   - dinner
   - Dotonbori
   - Japan
   - Osaka
-
 ---
+
 In the afternoon, we mainly wandered around the Dotonbori (道頓堀) area. This is a&nbsp;popular nightlife and entertainment area characterized by its eccentric atmosphere and large illuminated signboards.
 
 We saw most of the famous attractions here, including the Glico running man billboard, the kani doraku crab, and the blowfish lantern.

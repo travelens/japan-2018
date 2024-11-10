@@ -8,14 +8,14 @@ timezone: Japan
 location: Otemaedori
 image: ../../assets/gallery/09-himeji-otemaedori/Street sculpture, Otemae-dori (12).jpeg
 gallery: 09-himeji-otemaedori
-map: [34.8288,134.6901,15]
+map: [34.8288, 134.6901, 15]
 tags:
   - Huis Ten Bosch
   - Japan
   - Osaka
   - train
-
 ---
+
 Himeji is located at south western part of Hyogo, and is the second largest city in Hyogo (with population of 530,000). It is sandwiched between the Chugoku Mountains on the north, and the Inland Sea of Japan on the south.
 
 Today we are doing a day trip to Himeji, which is famous for the UNESCO World Heritage Himeji Castle. There is a view of the castle from the station itself.

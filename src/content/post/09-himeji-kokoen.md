@@ -8,14 +8,14 @@ timezone: Japan
 location: Kokoen
 image: ../../assets/gallery/09-himeji-kokoen/Bridge.jpeg
 gallery: 09-himeji-kokoen
-map: [34.83766,134.69001,17]
+map: [34.83766, 134.69001, 17]
 tags:
   - Huis Ten Bosch
   - Japan
   - Osaka
   - train
-
 ---
+
 Koko-en (好古園) is a Japanese garden located next to Himeji Castle.
 
 This strolling-landscape-type Japanese garden was built to commemorate Himeji City’s 100th anniversary. It features ponds and springs against the backdrop of Himeji Castle. Actually, the garden consists of 9 separate Japanese traditional gardens. The area used to be the former site of a Himeji Lord’s Residence and his men’s samurai houses. The garden covers an area of 3.5 hectares.

@@ -8,15 +8,15 @@ timezone: Japan
 location: Spectacles Bridge
 image: ../../assets/gallery/05-spectacles-bridge/Spectacles Bridge.jpeg
 gallery: 05-spectacles-bridge
-map: [32.74724,129.88042,19]
+map: [32.74724, 129.88042, 19]
 tags:
   - bridge
   - historic
   - Japan
   - Nagasaki
   - Spectacles Bridge
-
 ---
+
 After lunch we visited the &#8220;Spectacles Bridge&#8221; &#8211; another popular tourist attraction.
 
 It is&nbsp;Japan&#8217;s first Chinese-style stone bridge constructed in 1634, by Mokusunyoujo, the second-generation Chinese monk of Kofukuji Temple, Japan&#8217;s oldest Chinese Temple. The bridge gets its name from its resemblance to a pair of spectacles when the arches of the bridges are reflected as ovals on the surface of the river.

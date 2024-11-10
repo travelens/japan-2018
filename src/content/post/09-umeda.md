@@ -8,12 +8,12 @@ timezone: Japan
 location: Umeda
 image: ../../assets/gallery/09-umeda/View from hotel room.jpeg
 gallery: 09-umeda
-map: [34.7054,135.4980,16]
+map: [34.7054, 135.4980, 16]
 tags:
   - Huis Ten Bosch
   - Japan
   - Osaka
   - train
-
 ---
+
 We had a quick visit to Kiddyland to look at all the plush toys, and then visited the Sony Store.

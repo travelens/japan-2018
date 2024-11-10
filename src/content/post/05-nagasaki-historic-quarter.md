@@ -8,14 +8,14 @@ timezone: Japan
 location: Nagasaki Historic Quarter
 image: ../../assets/gallery/05-nagasaki-historic-quarter/Hong_Kong_and_Shanghai_Bank_7.jpeg
 gallery: 05-nagasaki-historic-quarter
-map: [32.7406,129.8717,16]
+map: [32.7406, 129.8717, 16]
 tags:
   - city
   - historic
   - Japan
   - Nagasaki
-
 ---
+
 In addition to Glover Garden and the Dutch Slope, we also explored various places around Oura Machi and Minami Yamate-Machi. This included the former Hong Kong and Shanghai Bank Nagasaki Branch Building &#8211; an imposing three storey building with an imposing staircase and distinct Chinese architecture style &#8211; its&#8217; constructed in 1904.
 
 ![Hong Kong and Shanghai Bank](../../assets/gallery/05-nagasaki-historic-quarter/Hong_Kong_and_Shanghai_Bank_7.jpeg)

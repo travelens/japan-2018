@@ -8,13 +8,13 @@ timezone: Japan
 location: Shianbashi
 image: ../../assets/gallery/05-shianbashi/Shianbashi.jpeg
 gallery: 05-shianbashi
-map: [32.74262,129.88060,18]
+map: [32.74262, 129.88060, 18]
 tags:
   - city
   - historic
   - Japan
   - Nagasaki
   - Shianbashi
-
 ---
+
 For dinner we took the streetcar to Nagasaki station to the nearby Amu Plaza. I had a simple dish of seafood broth. After that we explored Tokyo Hands and headed back and had a quick stroll around the Shianbashi area before returning to the hotel to pack as we are checking out the following morning.

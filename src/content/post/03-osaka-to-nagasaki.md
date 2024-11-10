@@ -8,15 +8,15 @@ timezone: Japan
 location: Richmond Hotel
 image: ../../assets/gallery/03-osaka-to-nagasaki/Inside tram.jpeg
 gallery: 03-osaka-to-nagasaki
-map: [32.74185,129.87985,18]
+map: [32.74185, 129.87985, 18]
 tags:
   - Japan
   - Nagasaki
   - Osaka
   - Shinkansen
   - train
-
 ---
+
 Today is a rainy day, which is perfect for travelling. We woke up early at 5am to ensure we don&#8217;t miss the train, had breakfast at 7am when the restaurant opened, and checked out by 8:30am.
 
 We caught the Midosuji subway from Namba station to Shin Osaka and it was packed. We went via the womens carriage. We arrived quite early at Shin Osaka, around 9am and tried to change to an earlier train but was told it was full so we just waited for the 10:09 train.

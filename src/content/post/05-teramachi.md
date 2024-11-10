@@ -8,15 +8,15 @@ timezone: Japan
 location: Teramachi
 image: ../../assets/gallery/05-teramachi/Joanji (1).jpeg
 gallery: 05-teramachi
-map: [32.7472,129.8843,16]
+map: [32.7472, 129.8843, 16]
 tags:
   - city
   - Japan
   - Nagasaki
   - temple
   - Teramachi
-
 ---
+
 In the late afternoon, we caught a streetcar to Suwajinjamae and crossed the Nakashima River to visit Teramachi. The name literally means &#8220;Temple town&#8221; and it is a street full of &#8230; temples. Each temple is different, and the experience visiting all of them is almost overwhelming.
 
 ![Map](../../assets/gallery/05-teramachi/Map.jpeg)

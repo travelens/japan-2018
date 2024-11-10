@@ -8,14 +8,14 @@ timezone: Japan
 location: Dutch Slope
 image: ../../assets/gallery/05-dutch-slope/Japan 2018 Day 5 - Dutch Slope (1).jpeg
 gallery: 05-dutch-slope
-map: [32.73823,129.87312,18]
+map: [32.73823, 129.87312, 18]
 tags:
   - Dutch Slope
   - historic
   - Japan
   - Nagasaki
-
 ---
+
 After Glover Garden, we visited the Dutch slope. This strangely named &#8220;tourist attraction&#8221; really is what it seems &#8211; it&#8217;s just a sloping road leading up to a hill where there are many historical Western style houses belonging to foreign traders.
 
 The area is actually called Higashi-Yamate Machi and contains the Kwassui Gakuin School and Kaisei Gakuen School.

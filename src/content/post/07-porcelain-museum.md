@@ -8,13 +8,13 @@ timezone: Japan
 location: Huis Ten Bosch
 image: ../../assets/gallery/07-porcelain-museum/Mirror hall, Chris.jpeg
 gallery: 07-porcelain-museum
-map: [33.0859,129.7889,15]
+map: [33.0859, 129.7889, 15]
 tags:
   - attraction
   - Huis Ten Bosch
   - Japan
   - museum
   - theme park
-
 ---
+
 The Porcelain Museum is full of rooms of porcelain displays, a second hall with upholsteries and a third hall with pottery.

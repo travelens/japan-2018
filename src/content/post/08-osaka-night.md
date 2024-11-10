@@ -8,14 +8,14 @@ timezone: Japan
 location: Umeda Sky Building
 image: ../../assets/gallery/08-osaka-night/Umeda Sky building escalators.jpeg
 gallery: 08-osaka-night
-map: [34.70530,135.49014,17]
+map: [34.70530, 135.49014, 17]
 tags:
   - Huis Ten Bosch
   - Japan
   - Osaka
   - train
-
 ---
+
 We arrived late to Osaka after a whole day travelling from Huis Ten Bosch through 3 trains. We decided to visit the Umeda Sky Building for dinner, and then afterwards go to the rooftop to experience cityscapes of Osaka at Night.
 
 The Umeda Sky Building (梅田スカイビル) is the nineteenth-tallest building in Osaka and one of the city’s most recognisable landmarks. It consists of two 40-story towers that connect at their two uppermost stories, with bridges and an escalator crossing the wide atrium-like space in the centre.
